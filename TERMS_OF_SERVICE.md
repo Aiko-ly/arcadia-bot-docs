@@ -1,6 +1,6 @@
 # Arcadia Discord Bot - Terms of Service
 
-_Last Updated: [Insert Date]_
+_Last Updated: 2/8/2025_
 
 ## 1. Acceptance of Terms
 By using the Arcadia Discord Bot (the "Bot"), you agree to comply with and be bound by these Terms of Service.
